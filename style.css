@@ -1,0 +1,9 @@
+p {
+    font-family:'Courier New'
+}
+table, th, td {
+border: 1px solid black;
+}
+body {
+    background-color:orange
+}
